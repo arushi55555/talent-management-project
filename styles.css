@@ -16,9 +16,9 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 20px 40px; /* Adjust padding to increase header height */
+    padding: 20px 40px; 
     background-color: #ffffff4b;
-    box-shadow: 0 2px 10px rgba(40, 197, 100, 0.995); /* Optional shadow for depth */
+    box-shadow: 0 2px 10px rgba(40, 197, 100, 0.995); 
 }
 
 header .logo img {
@@ -39,7 +39,7 @@ header nav ul li a {
 }
 
 header nav ul li a:hover {
-    color: #ff8c00; /* Optional hover effect */
+    color: #ff8c00; 
 }
 
 .top-nav {
